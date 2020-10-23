@@ -1,2 +1,2 @@
 # GameDesignOf_NameOfGame
-This repository serves only for game design of the game [NameOfGame]
+This repository serves only for the game design of the game [NameOfGame]
